@@ -41,7 +41,8 @@ git clone [Matthias_22RP02216]
 
 2. Install dependencies:
 ```bash
-composer install 
+$ composer require africastalking/africastalking
+for vendors and SDKs
 
 4. Import the database schema:
 Import the database to be used
