@@ -44,8 +44,7 @@ git clone [Matthias_22RP02216]
 composer install 
 
 4. Import the database schema:
-```bash
-mysql -u your_username -p your_database < database/schema.sql
+Import the database to be used
 ```
 
 5. Configure your Africa's Talking API credentials in
